@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/npkvani98/Weather-Application-Using-React-JS.git/static/css/main.45179321.css",
+    "main.js": "/npkvani98/Weather-Application-Using-React-JS.git/static/js/main.c70f7b4d.js",
+    "static/media/bg.jpg": "/npkvani98/Weather-Application-Using-React-JS.git/static/media/bg.35eed8de9cce8ae78af3.jpg",
+    "index.html": "/npkvani98/Weather-Application-Using-React-JS.git/index.html",
+    "main.45179321.css.map": "/npkvani98/Weather-Application-Using-React-JS.git/static/css/main.45179321.css.map",
+    "main.c70f7b4d.js.map": "/npkvani98/Weather-Application-Using-React-JS.git/static/js/main.c70f7b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45179321.css",
+    "static/js/main.c70f7b4d.js"
+  ]
+}
